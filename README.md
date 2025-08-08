@@ -29,3 +29,21 @@ Make sure you have **Node.js ≥ 18** installed.
 git clone https://github.com/your-username/word-cloud.git
 cd word-cloud
 ```
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the app**
+
+```bash
+npm run dev
+```
+
+**Running tests**
+
+```bash
+npx vitest
+```
