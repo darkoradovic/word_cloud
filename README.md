@@ -1,4 +1,4 @@
-# 🧠 Word Cloud Visualization
+# ☁️ Word Cloud Visualization
 
 A responsive and interactive word cloud component built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. Topics are displayed with varying font sizes and colors based on volume and sentiment score.
 
